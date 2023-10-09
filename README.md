@@ -17,8 +17,7 @@ Running the Frontend
 
 🔹To run the frontend, you can use the following commands:
 
-bash
-Copy code
+ 
 # Install dependencies
 npm install
 
